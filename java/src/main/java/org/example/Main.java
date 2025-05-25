@@ -1,10 +1,3 @@
-
-# Тестування працездатності системи
-
-Цей проєкт показує базову реалізацію DAO (Data Access Object) для взаємодії з базою даних MySQL. Була використана мова Java.
-
-## Головний файл тестування ##
-```java
 package org.example;
 
 import org.example.dao.*;
@@ -107,47 +100,3 @@ public class Main {
         }
     }
 }
-```
-
-## Результати тестування ##
-
-Головний файл
-
-![console_result](test_images/console_result.png)
-
-
-Таблиця user
-
-![user_table_result](test_images/user_table_result.png)
-
-
-Таблиця project
-
-![project_table_result](test_images/project_table_result.png)
-
-
-Таблиця board
-
-![board_table_result](test_images/board_table_result.png)
-
-
-Таблиця column
-
-![column_table_result](test_images/column_table_result.png)
-
-
-Таблиця task
-
-![task_table_result](test_images/task_table_result.png)
-
-
-Таблиця taskcolumnlink
-
-![taskcolumnlink_table_result](test_images/taskcolumnlink_table_result.png)
-
-
-Таблиця comment
-
-![comment_table_result](test_images/comment_table_result.png)
-
-
