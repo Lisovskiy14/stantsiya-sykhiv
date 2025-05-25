@@ -95,6 +95,7 @@ public class Main {
             comment.setTimestamp(now.format(formatter));
             commentDao.addComment(comment);
 
+
         } catch (SQLException e) {
             e.printStackTrace();
         }
