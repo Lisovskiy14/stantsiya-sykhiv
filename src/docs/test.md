@@ -148,6 +148,6 @@ public class Main {
 
 Таблиця comment
 
-![comment_result](test_images/comment_table_result.png)
+![comment_table_result](test_images/comment_table_result.png)
 
 
